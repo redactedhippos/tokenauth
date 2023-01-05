@@ -12,4 +12,4 @@ A simple Minecraft Forge mod that allows logging in to other people's accounts u
 - Shows the status (user, uuid) next to the gui button in GuiMultiplayer.
 
 ## Download
-Download from [Releases]() and drag that into your mod folder.
+Download from [Releases](https://github.com/redactedhippos/tokenauth/releases/tag/1.3.0) and drag that into your mod folder.
